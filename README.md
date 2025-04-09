@@ -1,2 +1,2 @@
 # Data_Cleaning_Project_1
-In this project I cleaned a messy data by implementing data cleaning techniques using mysql
+In this project I cleaned a messy dataset by implementing data cleaning techniques using mysql
